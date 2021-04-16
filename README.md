@@ -1,5 +1,5 @@
 # Xcode
-copy SIA_Swift.dvtcolortheme into  
+copy SIA_Swift.xctcolortheme into  
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes/  
 maybe need `mkdir FontAndColorThemes`
 
